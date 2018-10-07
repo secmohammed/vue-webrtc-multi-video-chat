@@ -1,0 +1,15 @@
+@import 'components/form';
+@import 'components/buttons';
+
+video {
+  display: block;
+  border-radius: 3px;
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity 100ms;
+}
+
+.fade-enter, .fade-leave-to {
+  opacity: 0;
+}

@@ -1,0 +1,20 @@
+.button {
+  text-align: center;
+  border: 0;
+  border-radius: 3px;
+  font: inherit;
+  font-weight: 600;
+  padding: 15px 18px;
+  width: 100%;
+  cursor: pointer;
+  outline: none;
+
+  &--primary {
+    color: #fff;
+    background-color: #2b9cf2;
+
+    &:hover {
+      background-color: #0e83dc;
+    }
+  }
+}
