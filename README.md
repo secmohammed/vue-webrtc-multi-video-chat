@@ -1,4 +1,4 @@
-# hangwith
+# multi-video-chat
 
 > A Vue.js project
 
